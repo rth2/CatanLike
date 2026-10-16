@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3bc8ee109b18b104e91885b8bf5ffe0d
+guid: ad15ca329f831844a9cf980fc48f7504
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tile_Bottom
-    second: {fileID: 2100000, guid: 44eda988af057714ea66031c5e6c5d0e, type: 2}
+    second: {fileID: 2100000, guid: 4ac209291b31d3a4c9173ec6b1f3df81, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tile_Side
-    second: {fileID: 2100000, guid: 6efacec2351cfe949a3b98210d10d772, type: 2}
+    second: {fileID: 2100000, guid: a6499d5bac4701f469a76ca9f7c91446, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tile_Top
-    second: {fileID: 2100000, guid: f6e25baf39deaa34bab4fc53362b72a5, type: 2}
+    second: {fileID: 2100000, guid: c68ef016a4d85f34b831eefa690eff44, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
